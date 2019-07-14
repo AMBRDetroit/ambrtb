@@ -1,0 +1,17 @@
+# ignore these root files
+/.project
+**/package-lock.json
+**/npm-debug.log
+**/.DS_Store
+
+# ignore vs studio code stuff
+/.vscode
+/.vscode/*
+
+# ignore these directories
+# TODO
+
+# ignore node modules and build components
+/src/npm-debug.log
+/src/node_modules
+/src/node_modules/*
